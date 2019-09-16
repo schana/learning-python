@@ -1,9 +1,10 @@
 # Pine Trees
 
-Write a program that asks the user for a width, and then print out their resulting tree.
+Write a program that asks the user for a width, and then print out their resulting tree
 
 Examples:
-```
+
+```text
 How wide should the tree be? 5
 
 Here's your tree:
@@ -27,7 +28,7 @@ Here's your tree:
 
 Example:
 
-```
+```text
 How wide should the tree be? 5
 How tall should the tree be? 4
 
