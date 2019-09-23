@@ -10,11 +10,11 @@ Documentation and resources for learning to program in Python. This is largely b
 
     Write a program that asks the user for a width, and then print out their resulting tree
 
-1. [Decisions](./2019-09-16/Decisions.md)
+1. [Decisions](./2019-09-23/Decisions.md)
 
     If statements and equality tests
 
-1. [Functions](./2019-09-16/Functions.md)
+1. [Functions](./2019-09-23/Functions.md)
 
     Functions and parameters
 

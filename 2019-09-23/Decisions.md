@@ -51,3 +51,28 @@ else:
 ## FizzBuzz
 
 Write a program that prints each number from 1 to 100 on a new line. For each multiple of 3, print `Fizz` instead of the number. For each multiple of 5, print `Buzz` instead of the number. For number which are multiples of both 3 and 5, print `FizzBuzz` instead of the number.
+
+Example:
+
+```text
+1
+2
+Fizz
+4
+Buzz
+Fizz
+7
+8
+Fizz
+Buzz
+11
+Fizz
+13
+14
+FizzBuzz
+...
+97
+98
+Fizz
+Buzz
+```
