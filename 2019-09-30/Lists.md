@@ -83,3 +83,31 @@ b = [3, 4]
 c = a + b
 print(c) # [1, 2, 3, 4]
 ```
+
+## Excercise - Sieve of Eratosthenes
+
+Let's find all the prime numbers up to a given limit.
+
+The Sieve works by using a list of numbers, and then iteratively marks out multiples until all that are left are primes.
+
+For instance, imagine we have the list
+>2, 3, 4, 5, 6, 7, 8, 9, 10
+
+We begin with the first number, 2, which we know is a prime. We then mark out all the multiples of 2 from the list.
+> 2, 3, ~~4~~, 5, ~~6~~, 7, ~~8~~, 9, ~~10~~
+
+Once we're finished, we move on to the next number, 3. We now know this is a prime. We now mark out multiples of 3 from the list.
+> 2, 3, ~~4~~, 5, ~~6~~, 7, ~~8~~, ~~9~~, ~~10~~
+
+We continue this process until we've worked through the entire list. All of the unmarked numbers are primes.
+> 2, 3, 5, 7
+
+The excercise is to write a program that asks the user to what number they would like to find all the primes. The program then finds them utilizing the Sieve of Eratosthenes and prints out a list for the user.
+
+Sample output:
+
+```text
+To what number would you like to know primes? 10
+The primes through 10 are:
+2, 3, 5, 7
+```
