@@ -9,6 +9,9 @@ empty = []
 empty = list()
 
 numbers = [1, 2, 3, 4, 5]
+string_to_list = list('something')
+print(string_to_list) # ['s', 'o', 'm', 'e', ...]
+''.join(['a', 's', 'd', 'f']) # returns a string joined by ''
 
 strings = ['this', 'can', 'also', 'contain', 'strings']
 

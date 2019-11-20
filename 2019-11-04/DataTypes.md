@@ -27,6 +27,5 @@ A dictionary is a set of key: value pairs, with the requirement that keys are un
 ```python
 d = {} # empty dict
 d = {1: 'one', 2: 'two', 3: 'three'}
-d[4] = 'four' # assigns the value 'four' to the key 3
-
+d[4] = 'four' # assigns the value 'four' to the key 4
 ```

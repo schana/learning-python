@@ -6,17 +6,9 @@ Please refer to the [Syntax Cheat Sheet](./Syntax.md) for an overview of proper 
 
 ## This week
 
-1. [File input and output](./2019-11-04/FileIO.md)
+1. [Sorting](./2019-11-20/Sorting.md)
 
-    Reading and writing files
-
-1. [Other data structures](./2019-11-04/DataTypes.md)
-
-    Other structures we'll use like tuples, dictionaries, and sets
-
-1. [Hangman](./2019-11-04/Hangman.md)
-
-    Excercise
+    Different sorting algorithms for lists
 
 ## Previous
 
@@ -39,6 +31,18 @@ Please refer to the [Syntax Cheat Sheet](./Syntax.md) for an overview of proper 
 1. [Lists](./2019-09-30/Lists.md)
 
     The first data structure
+
+1. [File input and output](./2019-11-04/FileIO.md)
+
+    Reading and writing files
+
+1. [Other data structures](./2019-11-04/DataTypes.md)
+
+    Other structures we'll use like tuples, dictionaries, and sets
+
+1. [Hangman](./2019-11-04/Hangman.md)
+
+    Excercise
 
 ## Future
 
