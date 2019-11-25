@@ -6,7 +6,11 @@ Please refer to the [Syntax Cheat Sheet](./Syntax.md) for an overview of proper 
 
 ## This week
 
-1. [Sorting](./2019-11-20/Sorting.md)
+1. [Git](./2019-11-25/Git.md)
+
+    Using source control
+
+1. [Sorting](./2019-11-25/Sorting.md)
 
     Different sorting algorithms for lists
 
@@ -43,11 +47,3 @@ Please refer to the [Syntax Cheat Sheet](./Syntax.md) for an overview of proper 
 1. [Hangman](./2019-11-04/Hangman.md)
 
     Excercise
-
-## Future
-
-1. [Other data types](./2019-10-07/DataTypes.md)
-
-    The tuple and dictionary types
-
-1. [Git](./Git.md)
